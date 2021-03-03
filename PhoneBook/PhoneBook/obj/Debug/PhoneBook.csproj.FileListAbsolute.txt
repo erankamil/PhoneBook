@@ -1,0 +1,6 @@
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\erank\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

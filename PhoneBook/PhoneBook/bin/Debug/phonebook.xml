@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PhoneBook>
+  <Entry>
+    <Name>Zion</Name>
+    <Phone>0544567608</Phone>
+    <Type>private</Type>
+  </Entry>
+  <Entry>
+    <Name>itai</Name>
+    <Phone>543543543</Phone>
+    <Type>woki-toki</Type>
+  </Entry>
+  <Entry>
+    <Name>tomas</Name>
+    <Phone>54354353</Phone>
+    <Type>private</Type>
+  </Entry>
+  <Entry>
+    <Name>amber</Name>
+    <Phone>99999</Phone>
+    <Type>private</Type>
+  </Entry>
+  <Entry>
+    <Name>tomer</Name>
+    <Phone>054035234</Phone>
+    <Type>private</Type>
+  </Entry>
+  <Entry>
+    <Name>Shimi</Name>
+    <Phone>054035234</Phone>
+    <Type>private</Type>
+  </Entry>
+</PhoneBook>
